@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">NAPR</string>
+    <string name="land_string">მიწის რეგისტრაციის რეფორმა</string>
+    <string name="business_string">ბიზნესის რეესტრი</string>
+    <string name="property_string">უძრავი ქონების რეესტრი</string>
+    <string name="economical_string">ეკონომიკურ საქმიანობათა რეესტრი</string>
+    <string name="statement_string">განცხადების ძებნა</string>
+    <string name="passage_string">ამონაწერის მომზადება</string>
+    <string name="technical_string">ტექნიკური ხარვეზის შესწორება</string>
+    <string name="plan_string">საკადასტრო გეგმის მომზადება</string>
+    <string name="document_string">დოკუმენტის ასლის გამოთხოვა</string>
+    <string name="archive_string">ინფორმაცია ტექნიკური აღრიცხვის არქივიდან</string>
+    <string name="debtor_string">მოვალეთა რეესტრი</string>
+    <string name="blockchain_string">ძიება ბლოკჩეინში</string>
+    <string name="ind_string">მოძებნე მეწარმე / იურიდიული პირი</string>
+    <string name="portal">ანგარიშგების პორტალი</string>
+    <string name="classificatory_string">რეგისტრაციასავალდებულო საქმიანობების სახეები და კოდები</string>
+    <string name="national_string">ეროვნული კლასიფიკატორი</string>
+    <string name="contact_string">კონტაქტი</string>
+    <string name="hotline_string">ცხელი ხაზი</string>
+    <string name="soc_rel_string">საზოგადოებასთან ურთიერთობის განყოფილება</string>
+    <string name="limit_string">შეზღუდვის, საგადასახადო გირავნობის/იპოთეკის რეესტრი</string>
+    <string name="sequester_string">ყადაღის,საგადასახადო გირავნობა/იპოთეკის რეესტრი</string>
+    <string name="notice_string">ცნობა საჯაროსამართლებრივი შეზღუდვის შესახებ</string>
+    <string name="preparation_string">ინფორმაცია საგადასახადო გირავნობის/იპოთეკის უფლების შესახებ</string>
+    <string name="pub_lim_string">ინფორმაცია საჯაროსამართლებრივი შეზღუდვის შესახებ</string>
+
+
+    <string name="search_first_web">https://naprweb.reestri.gov.ge/#/search</string>
+
+    <string name="passage_second_web">https://www.my.gov.ge/ka-ge/services/5/service/193</string>
+    <string name="search_second_web">https://www.my.gov.ge/ka-ge/services/5/service/176</string>
+    <string name="technical_second_web">https://www.my.gov.ge/ka-ge/services/5/service/177</string>
+    <string name="plan_second_web">https://www.my.gov.ge/ka-ge/services/5/service/178</string>
+    <string name="document_second_web">https://nom.reestri.gov.ge/?</string>
+    <string name="archive_second_web">https://www.my.gov.ge/ka-ge/services/5/service/190</string>
+    <string name="debtor_second_web">https://debt.reestri.gov.ge/</string>
+    <string name="blockchain_second_web">https://naprweb.reestri.gov.ge/#/blockchain</string>
+
+
+    <string name="passage_third_web">https://www.my.gov.ge/ka-ge/services/6/service/200</string>
+    <string name="search_third_web">https://www.my.gov.ge/ka-ge/services/6/service/179</string>
+    <string name="technical_third_web">https://www.my.gov.ge/ka-ge/services/6/service/199</string>
+    <string name="document_third_web">https://nom.reestri.gov.ge/</string>
+    <string name="debtor_third_web">https://debt.reestri.gov.ge/</string>
+    <string name="archive_third_web">https://reportal.ge/</string>
+
+
+    <string name="search_fourth_web">https://www.my.gov.ge/ka-ge/services/6/service/180</string>
+    <string name="registration_fourth_web">https://napr.gov.ge/p/1866</string>
+    <string name="national_fourth_web">https://napr.gov.ge/source/ekonomikur%20saqmianobata%20reestri/NACE_Rev_2.pdf</string>
+
+
+    <string name="sequester_fifth_web">https://www.my.gov.ge/ka-ge/services/5/service/181</string>
+    <string name="search_fifth_web">https://www.my.gov.ge/ka-ge/services/5/service/191</string>
+    <string name="notice_fifth_web">https://www.my.gov.ge/ka-ge/services/5/service/182</string>
+    <string name="debtor_fifth_web">https://debt.reestri.gov.ge/</string>
+    <string name="preparation_fifth_web">https://www.my.gov.ge/ka-ge/services/5/service/183</string>
+    <string name="pub_lim_fifth_web">https://www.my.gov.ge/ka-ge/services/5/service/184</string>
+
+
+    <string name="contactInfo_string">\tმისამართი: სათაო ოფისის მისამართი: ქ. თბილისი, ვახტანგ გორგასლის ქ. № 22.\n\n\t
+        საიდენტიფიკაციო კოდი - 202238621 \n\n\t
+        სამუშაო დრო: ორშაბათი - პარასკევი; 09:00 -18:00 სთ.\n\n\t
+        ელ. ფოსტა: info@napr.gov.ge\n\n\t
+        სააგენტოს თავმჯდომარესთან შეხვედრის მსურველებს ვთხოვთ, წინასწარ მოგვმართონ განცხადებით და მოითხოვონ
+        აუდიენცია შემდეგ მისამართზე: ქ.თბილისი, სანაპიროს 2 (თბილისის იუსტიციის სახლი) ან ტერიტორიულ სამსახურებში.</string>
+    <string name="vacancy_string">ვაკანსიებთან და კონკურსებთან დაკავშირებულ საკითხებზე დარეკეთ</string>
+
+    <string name="statementNum_string">განცხადების ნომერი</string>
+    <string name="person_string">პიროვნება / ორგანიზაცია</string>
+    <string name="property_address_string">უძრავი ნივთის მისამართი</string>
+    <string name="cad_string">საკადასტრო კოდი</string>
+    <string name="startDate_string">თარიღის დასაწყისი</string>
+    <string name="endDate_string">თარიღის დასასრული</string>
+    <string name="home_string">Home</string>
+    <string name="profile_string">Profile</string>
+    <string name="settings_string">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation">bottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="space">" "</string>
+    <string name="firstQuestion">რა არის საჯარო ინფორმაცია?</string>
+    <string name="secQuestion">რა სახის ინფორმაციის მოთხოვნა შეიძლება საჯარო დაწესებულებიდან?</string>
+    <string name="thirdQuestion">ვის შეუძლია მოითხოვოს საჯარო ინფორმაცია?</string>
+    <string name="fourthQuestion">როგორ მოვიპოვოთ საჯარო ინფორმაცია?</string>
+    <string name="fifthQuestion">რა ვადაში უნდა მიიღო საჯარო ინფორმაცია?</string>
+    <string name="sixthQuestion">ვალდებულია თუ არა განმცხადებელი საჯარო ინფორმაციის მისაღებად გადაიხადოს რაიმე საფასური?</string>
+    <string name="seventhQuestion">რა ვადაში უნდა ეცნობოს განმცხადებელს უარი საჯარო ინფორმაციის გაცემაზე?</string>
+    <string name="eighthQuestion">რა ზომებს მიმართავს პირი საჯარო ინფორმაციის მიღებაზე უარის თქმის შემთხვევაში?</string>
+
+    <string name="firstAnswer">ოფიციალური დოკუმენტი (მათ შორის, ნახაზი, მაკეტი, გეგმა, სქემა, ფოტოსურათი, ელექტრონული ინფორმაცია, ვიდეო- და აუდიოჩანაწერები), ანუ საჯარო დაწესებულებაში დაცული, აგრეთვე საჯარო დაწესებულების ან მოსამსახურის მიერ სამსახურებრივ საქმიანობასთან დაკავშირებით მიღებული, დამუშავებული, შექმნილი ან გაგზავნილი ინფორმაცია, ასევე საჯარო დაწესებულების მიერ პროაქტიულად გამოქვეყნებული ინფორმაცია.</string>
+    <string name="secAnswer">ყველას აქვს უფლება, გაეცნოს ადმინისტრაციულ ორგანოში არსებულ საჯარო ინფორმაციას, აგრეთვე მიიღოს მისი ასლები, თუ ისინი არ შეიცავენ სახელმწიფო, პროფესიულ ან კომერციულ საიდუმლოებას ან პერსონალურ მონაცემებს. ასევე დახურულია და არ გაიცემა აღმასრულებელი პრივილეგიით დაცული ინფორმაცია.</string>
+    <string name="thirdAnswer">ნებისმიერ პირს აქვს უფლება მოითხოვოს და გაეცნოს ადმინისტრაციულ ორგანოში დაცულ საჯარო ინფორმაციას.
+
+საჯარო ინფორმაციის მისაღებად საჭიროა წერილობითი განცხადების წარდგენა.
+
+საჯარო ინფორმაციის მოთხოვნის მოტივსა და მიზანზე მითითება აუცილებელი არ არის.</string>
+    <string name="fourthAnswer">იმისათვის, რომ მოვიპოვოთ საჯარო ინფორმაცია, უნდა მივმართოდ შესაბამის საჯარო დაწესებულებას წერილობითი განცხადებით.
+
+განცხადება უნდა შეიცავდეს:
+
+ა) იმ ადმინისტრაციული ორგანოს დასახელებას, რომელსაც მიმართავს განმცხადებელი
+
+ბ) განმცხადებლის ვინაობასა და მისამართს
+
+გ) მოთხოვნას
+
+დ) განცხადების წარდგენის თარიღსა და განმცხადებლის ხელმოწერას
+
+ე) განცხადებაზე დართული საბუთების ნუსხას, მათი არსებობის შემთხვევაში
+
+განცხადებაში აუცილებელი არ არის მიეთითოს საჯარო ინფორმაციის მოთხოვნის მოტივი ან მიზანი.</string>
+    <string name="fifthAnswer">საჯარო დაწესებულება ვალდებულია გასცეს საჯარო ინფორმაცია, მათ შორის, ელექტრონული ფორმით მოთხოვნილი საჯარო ინფორმაცია, დაუყოვნებლივ ან არა უგვიანეს 10 დღისა, თუ საჯარო ინფორმაციის მოთხოვნაზე პასუხის გაცემა მოითხოვს:
+
+ა) სხვა დასახლებულ პუნქტში არსებული მისი სტრუქტურული ქვედანაყოფიდან ან სხვა საჯარო დაწესებულებიდან ინფორმაციის მოძიებასა და დამუშავებას
+
+ბ) მნიშვნელოვანი მოცულობის ერთმანეთთან დაუკავშირებელი ცალკეული დოკუმენტების მოძიებასა და დამუშავებას
+
+გ) სხვა დასახლებულ პუნქტში არსებულ მის სტრუქტურულ ქვედანაყოფთან ან სხვა საჯარო დაწესებულებასთან კონსულტაციას</string>
+    <string name="sixthAnswer">საჯარო დაწესებულება ვალდებულია უზრუნველყოს საჯარო ინფორმაციის ხელმისაწვდომობა უფასოდ. დაუშვებელია დაწესდეს რაიმე სახის საფასური საჯარო ინფორმაციის გაცემისათვის, გარდა ასლის გადაღებისათვის აუცილებელი თანხის ანაზღაურებისა. ასეთ შემთხვევაში გადახდილი თანხა უნდა ემთხვეოდეს ასლის გადაღების თვითღირებულებას. საჯარო ინფორმაციის მიღებით დაინტერესებული ფიზიკური პირი არ არის ვალდებული გადაიხადოს ასლის გადაღების საფასური საჯარო დაწესებულებაში მასზე არსებული პერსონალური მონაცემების ასლის გადაღებისას; კომპაქტურ დისკზე ინფორმაციის ჩაწერისას ან ინფორმაციის ელექტრონულად გადაგზავნისას.</string>
+    <string name="seventhAnswer">საჯარო დაწესებულების უარი საჯარო ინფორმაციის გაცემაზე განმცხადებელს უნდა ეცნობოს დაუყოვნებლივ. საჯარო ინფორმაციის გაცემაზე უარის თქმის შემთხვევაში საჯარო დაწესებულება ვალდებულია გადაწყვეტილების მიღებიდან 3 დღის ვადაში პირს წერილობით განუმარტოს მისი უფლებები და გასაჩივრების წესი, ასევე მიუთითოს ის სტრუქტურული ქვედანაყოფი ან საჯარო დაწესებულება, რომელთანაც წარმოებდა კონსულტაცია ინფორმაციის გაცემაზე უარის თქმის გადაწყვეტილების მიღებისას.</string>
+    <string name="eighthAnswer">საჯარო დაწესებულების გადაწყვეტილება  საჯარო ინფორმაციის გაცემაზე უარის თქმის შესახებ დაინტერესებული პირის მიერ შეიძლება გასაჩივრდეს გადაწყვეტილების ჩაბარებიდან ერთი თვის ვადაში. დაინტერესებული პირის ადმინისტრაციულ საჩივარს განიხილავს და გადაწყვეტს ადმინისტრაციულ-სამართლებრივი აქტის გამომცემი ადმინისტრაციული ორგანო, თუ იქ არსებობს ადმინისტრაციულ-სამართლებრივი აქტის გამომცემი თანამდებობის პირის ან სტრუქტურული ქვედანაყოფის ზემდგომი თანამდებობის პირი.
+
+ადმინისტრაციული ორგანოს გადაწყვეტილება ადმინისტრაციული საჩივარის დაკმაყოფილებაზე უარის თქმის შესახებ შეიძლება გასაჩივრდეს სასამარლოში.
+
+საჯარო დაწესებულების გადაწყვეტილება  საჯარო ინფორმაციის გაცემაზე უარის თქმის შესახებ დაინტერესებული პირის მიერ შეიძლება პირდაპირ გასაჩივრდეს სასამართლოში იმ შემთხვევაში, თუ საჯარო დაწესებულებაში არ არსებობს ადმინისტრაციულ-სამართლებრივი აქტის გამომცემი თანამდებობის პირის ან სტრუქტურული ქვედანაყოფის ზემდგომი თანამდებობის პირი.  </string>
+    <string name="search">Search</string>
+
+
+</resources>
